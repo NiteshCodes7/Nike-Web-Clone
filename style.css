@@ -177,10 +177,10 @@ html,body{
     width: 35%;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px){
     body{
         width: 101rem;
-        height: 200vh;
+        height: 200rem;
         overflow: hidden;
     }
     
